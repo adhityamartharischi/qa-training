@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginGitHub</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9481532-3a0e-4fa5-89d3-1c865d75c935</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>44eef008-cd40-4d81-afd9-4cb2d9a1e3bc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a6413663-7fae-4813-b864-69b9c491998d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>44eef008-cd40-4d81-afd9-4cb2d9a1e3bc</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a6413663-7fae-4813-b864-69b9c491998d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

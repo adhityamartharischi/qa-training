@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Log In_btn btn-solid-primary btn--s btn--inline shopee-searchbar__search-button</name>
+   <tag></tag>
+   <elementGuidId>95cf1f39-bd7a-466c-8f70-c455d49d73fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-solid-primary.btn--s.btn--inline.shopee-searchbar__search-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a758cf3b-938e-4323-b264-7c4fa88b0433</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>204f7226-19a5-4d9a-9336-f9e31cc0a252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-solid-primary btn--s btn--inline shopee-searchbar__search-button</value>
+      <webElementGuid>39be52f9-33ca-449f-bd1a-8149f16047fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;shopee-top shopee-top--sticky&quot;]/div[@class=&quot;container-wrapper header-with-search-wrapper&quot;]/div[@class=&quot;container header-with-search&quot;]/div[@class=&quot;header-with-search__search-section&quot;]/div[@class=&quot;shopee-searchbar&quot;]/button[@class=&quot;btn btn-solid-primary btn--s btn--inline shopee-searchbar__search-button&quot;]</value>
+      <webElementGuid>a94ef2fe-618b-4e72-9623-ef616ad75695</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>a5684b35-8c02-4dc9-a7d6-158ce28e581b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[2]/div[2]/div/div/div/button</value>
+      <webElementGuid>35680e8d-ba6f-4143-a7d3-5907e14e5a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[1]/following::button[1]</value>
+      <webElementGuid>d89b4edf-857e-4bca-be65-5fa1cb005e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::button[1]</value>
+      <webElementGuid>ff8eae13-3fa6-40b2-9165-fe75efcfe43d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tas Wanita'])[1]/preceding::button[1]</value>
+      <webElementGuid>f743f99e-fa28-4fc3-9c1e-9d84aac44967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kemeja Wanita'])[1]/preceding::button[1]</value>
+      <webElementGuid>04367cf1-38f5-4d73-aa75-65c35d854bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>5257f2fd-b131-4c73-8aca-1ea660e44ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>ba6d1956-256f-4ae7-aa48-f8b4eb8acf5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

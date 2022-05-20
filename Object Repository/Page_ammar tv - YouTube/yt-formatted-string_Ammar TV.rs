@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>yt-formatted-string_Ammar TV</name>
+   <tag></tag>
+   <elementGuidId>50a51458-2340-4d31-878b-c49740e57e27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#channel-title > #container > #text-container > #text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//yt-formatted-string[@id='text'])[58]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-formatted-string</value>
+      <webElementGuid>495ddab9-d9e3-4115-b1fb-9cd8cf2745d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f0732eb5-7676-495f-8420-8a985e479e48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-scope ytd-channel-name</value>
+      <webElementGuid>dfc39562-2122-4d43-8857-216e47d1c4cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ammar TV</value>
+      <webElementGuid>bb7ce3fd-b007-4408-bae9-c35be2f93654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;channel-title&quot;)/div[@id=&quot;container&quot;]/div[@id=&quot;text-container&quot;]/yt-formatted-string[@id=&quot;text&quot;]</value>
+      <webElementGuid>36dcf6be-8a24-4e63-8df8-7e5a3f6d07e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//yt-formatted-string[@id='text'])[58]</value>
+      <webElementGuid>33908f73-4477-46ad-b6c2-00bf75726218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='text-container']/yt-formatted-string)[36]</value>
+      <webElementGuid>c7cd1b6f-83ea-4538-9557-d5d76442451d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/following::yt-formatted-string[2]</value>
+      <webElementGuid>e6b9fdd8-e584-47b5-9690-4d605381927c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ammar TV']/parent::*</value>
+      <webElementGuid>4a41bd83-818b-4c67-a01a-09778c959f4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/ytd-channel-name/div/div/yt-formatted-string</value>
+      <webElementGuid>4fd3f314-e186-46df-878b-f5f4e8d37515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//yt-formatted-string[@id = 'text' and (text() = 'Ammar TV' or . = 'Ammar TV')]</value>
+      <webElementGuid>c05dfa98-8daf-4235-a2d4-489009d4106d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

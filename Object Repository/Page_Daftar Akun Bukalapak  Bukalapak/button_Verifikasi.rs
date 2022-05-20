@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Verifikasi</name>
+   <tag></tag>
+   <elementGuidId>a7897009-ce73-4196-bbee-c2de946d1ff7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='TFAJS-1652928086902']/section/div/div[2]/div/div[2]/div/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div > div > button.bl-button.bl-button--primary.bl-button--medium.bl-button--block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2ee3b8cd-83dc-4e72-ae5b-d966f9af07d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-button bl-button--primary bl-button--medium bl-button--block</value>
+      <webElementGuid>7249da36-b318-4fb1-9a6e-07de0e9e1bc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Verifikasi </value>
+      <webElementGuid>7e429702-d144-4f34-a804-18cc0a25090a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TFAJS-1652928086902&quot;)/section[1]/div[@class=&quot;bl-modal p-24&quot;]/div[@class=&quot;bl-modal__wrapper&quot;]/div[@class=&quot;bl-card&quot;]/div[@class=&quot;bl-modal__body&quot;]/div[@class=&quot;p-24&quot;]/div[1]/div[1]/div[1]/button[@class=&quot;bl-button bl-button--primary bl-button--medium bl-button--block&quot;]</value>
+      <webElementGuid>f7743503-92bf-483a-89d8-c57e601663d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TFAJS-1652928086902']/section/div/div[2]/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>0675aab8-1cfa-4b75-9d09-e19aaee056fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim ulang'])[1]/following::button[1]</value>
+      <webElementGuid>1ad32bfb-dcd2-4fc6-acc6-4e662588286c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode rahasia'])[1]/following::button[1]</value>
+      <webElementGuid>3dd9d794-d322-40e1-b1a7-234a1a624f7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button</value>
+      <webElementGuid>57d2986b-1392-4c99-a5cf-128168f3d77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Verifikasi ' or . = ' Verifikasi ')]</value>
+      <webElementGuid>09791de5-c8f5-4692-8642-0d04d3ff5b7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

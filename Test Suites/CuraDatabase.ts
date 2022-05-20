@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>CuraDatabase</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>c6a8ff68-234d-4c7b-bcc0-94649653ccc2</testSuiteGuid>
+   <testCaseLink>
+      <guid>bca566bc-1f70-4103-b122-b612b95b2a41</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/RealTestCase/RealTestCaseDatabase/LoginCura</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a9f38f3b-3b4e-463d-9ae2-01c654ede4d3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Login_Cura</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a9f38f3b-3b4e-463d-9ae2-01c654ede4d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>84a14c70-f84e-4133-bfea-b3521e3d76fe</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a9f38f3b-3b4e-463d-9ae2-01c654ede4d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>2ce5b7aa-ef94-4f12-b632-c59a3decc744</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8307b307-87a5-45f6-918f-430503e83002</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/RealTestCase/RealTestCaseDatabase/Appointment1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3f7a8db2-ca67-4cac-af4f-357bac1ebd58</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDataDatabase</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>3f7a8db2-ca67-4cac-af4f-357bac1ebd58</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>facility</value>
+         <variableId>bd594058-65e3-4663-a93a-30fcb6fd09d9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3f7a8db2-ca67-4cac-af4f-357bac1ebd58</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>comment</value>
+         <variableId>92ef3667-6e2b-49a5-b482-8b09f85aef82</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>05422429-eb9a-4c9c-8883-09fe7f0ffd63</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/RealTestCase/RealTestCaseDatabase/Appointment2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d1d05fc5-4857-4240-a609-9e65af913495</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDataDatabase</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d1d05fc5-4857-4240-a609-9e65af913495</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>facility</value>
+         <variableId>0da4cd55-d086-4997-9d7e-2be01aadde31</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d1d05fc5-4857-4240-a609-9e65af913495</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>comment</value>
+         <variableId>e6625480-9ff4-4152-a0c3-3b4d23f1c342</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>42f86e66-bd42-44be-913d-30ef46e084f4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/RealTestCase/RealTestCaseDatabase/Appointment3</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>be2aeb19-2550-4346-8af2-f599c447d7f1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDataDatabase</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>be2aeb19-2550-4346-8af2-f599c447d7f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>facility</value>
+         <variableId>8d0ec9a4-4e17-40e9-898c-de094a9c4baa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>be2aeb19-2550-4346-8af2-f599c447d7f1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>comment</value>
+         <variableId>7e824ad3-4d6b-4a50-bc4d-347f931e2f34</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

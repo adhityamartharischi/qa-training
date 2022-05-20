@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>RegisterAccountAmazon</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>d9a8a0ab-32ce-4313-a151-483889169958</testSuiteGuid>
+   <testCaseLink>
+      <guid>51e1e3b3-6a24-40e1-8457-1d2dc93497ce</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestCasesPakaiExcel/RegisterAccountAmazon</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>57f1ed6e-a869-42c5-9156-bc838ecf1b7f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/RegisterAccountAmazon</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>57f1ed6e-a869-42c5-9156-bc838ecf1b7f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>32ca0995-2c1b-43c7-b527-544bb56d3566</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>57f1ed6e-a869-42c5-9156-bc838ecf1b7f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>66fc42b5-03d2-4888-a2f0-7f435b6d53c5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>57f1ed6e-a869-42c5-9156-bc838ecf1b7f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>fd3bfad7-e99d-4344-934e-0c4a82956be2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>57f1ed6e-a869-42c5-9156-bc838ecf1b7f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>confirmpassword</value>
+         <variableId>1d234067-0072-41b7-9bb4-632150eb8f2c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

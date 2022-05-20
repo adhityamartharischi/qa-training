@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Appointment1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>547571f2-7856-40cb-9deb-e49fb029ac96</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bd594058-65e3-4663-a93a-30fcb6fd09d9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>92ef3667-6e2b-49a5-b482-8b09f85aef82</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bd594058-65e3-4663-a93a-30fcb6fd09d9</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>92ef3667-6e2b-49a5-b482-8b09f85aef82</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>

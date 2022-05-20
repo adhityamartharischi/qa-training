@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Password</name>
+   <tag></tag>
+   <elementGuidId>7ed43f70-b42a-4dfa-bb17-939b9c69af61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama lengkap'])[1]/following::div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6e79f410-432f-4955-a92d-9e918e3e9f73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-text-field__inner</value>
+      <webElementGuid>6613bb77-ffe5-4489-8a27-60562f181add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Password</value>
+      <webElementGuid>d2124570-9c0c-4afb-b146-6fe624667b45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;container&quot;]/div[@class=&quot;ph-24 bl-card has-elevation-1 bl-card--outlined&quot;]/section[1]/div[@class=&quot;bl-text-field mb-24&quot;]/div[@class=&quot;bl-text-field__boxed&quot;]/div[@class=&quot;bl-text-field__inner&quot;]</value>
+      <webElementGuid>1b105d3d-418a-435c-94a7-36ed6fa3a16c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama lengkap'])[1]/following::div[5]</value>
+      <webElementGuid>0bd87f9f-00a8-4410-96a4-759182c7fe6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aturan Penggunaan'])[1]/preceding::div[3]</value>
+      <webElementGuid>8a335959-8920-45b0-af6c-753f1901bffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>840ca433-dc7f-438b-904f-d2e84be5dd93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Password' or . = ' Password')]</value>
+      <webElementGuid>c9c397d5-da2c-4cac-bc8a-059725bc0d75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

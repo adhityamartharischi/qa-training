@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ya, kirim kode</name>
+   <tag></tag>
+   <elementGuidId>1a91f4ed-ccb8-42d8-bb64-adf5be1b0f5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='TFAJS-1652928086902']/section/div/div[2]/div/div[2]/div/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mb-8.bl-button.bl-button--primary.bl-button--medium.bl-button--block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4c077f2c-3b27-4035-8dfe-df50a0699aec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-8 bl-button bl-button--primary bl-button--medium bl-button--block</value>
+      <webElementGuid>b09e4d90-8434-417d-ba0c-54ff5bd88201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Ya, kirim kode </value>
+      <webElementGuid>f2edc9ba-4004-490d-b659-aaab8292447a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TFAJS-1652928086902&quot;)/section[1]/div[@class=&quot;bl-modal p-24&quot;]/div[@class=&quot;bl-modal__wrapper&quot;]/div[@class=&quot;bl-card&quot;]/div[@class=&quot;bl-modal__body&quot;]/div[@class=&quot;p-24&quot;]/div[1]/div[1]/div[1]/button[@class=&quot;mb-8 bl-button bl-button--primary bl-button--medium bl-button--block&quot;]</value>
+      <webElementGuid>6ee61b24-27df-4b70-ab5d-2f8251659c66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TFAJS-1652928086902']/section/div/div[2]/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>10c3b728-7d8e-41c1-9158-d6cf6e021800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='adhityamartharischi@gmail.com'])[1]/following::button[1]</value>
+      <webElementGuid>be6ea208-f892-479e-b61c-bf44cbe03bf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::button[1]</value>
+      <webElementGuid>cccf184a-685d-432f-9cf7-50fc854b3fae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bukan, ganti email'])[1]/preceding::button[1]</value>
+      <webElementGuid>f72198c3-b3ff-4abd-925f-fda10b820fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button</value>
+      <webElementGuid>b14755a4-3678-49ef-a5cb-1ad907dff4a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Ya, kirim kode ' or . = ' Ya, kirim kode ')]</value>
+      <webElementGuid>ea433f55-6730-4ae2-b25a-9a19eecc25d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

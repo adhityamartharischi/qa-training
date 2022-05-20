@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManualModeLoginGitHub</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>405b0095-e72e-4678-bc2f-33270c3d1f78</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9e9daec0-e6f7-413a-a8da-a691de466875</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>af4bb2fe-e13a-4a97-bb82-50ca21edfd12</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d4033a49-ef79-4e89-a97f-49ef3cd8abe2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://github.com'</defaultValue>
+      <description></description>
+      <id>9e9daec0-e6f7-413a-a8da-a691de466875</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'adhityamartharischi@gmail.com'</defaultValue>
+      <description></description>
+      <id>af4bb2fe-e13a-4a97-bb82-50ca21edfd12</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'cz6J3AjQ5eJxwFakz5FGeQ=='</defaultValue>
+      <description></description>
+      <id>d4033a49-ef79-4e89-a97f-49ef3cd8abe2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

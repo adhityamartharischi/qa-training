@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>RegisterBukalapak</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>dde7d8ca-0e43-43fa-adfe-6d14c74c077f</testSuiteGuid>
+   <testCaseLink>
+      <guid>3a8055fb-083f-4107-9f8e-94d66b2a5709</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestCasesPakaiExcel/RegisterBukalapak</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fba32b38-adf2-4bd3-8150-ae083c152cb5</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/RegisterBukalapak</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>fba32b38-adf2-4bd3-8150-ae083c152cb5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>a199973b-e6a7-4986-b3c0-8a09a8ad48c9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fba32b38-adf2-4bd3-8150-ae083c152cb5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nama</value>
+         <variableId>d76c310d-242b-4516-b177-49bede77499e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fba32b38-adf2-4bd3-8150-ae083c152cb5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>955acfef-6ffa-4e90-88a4-44890f580d8c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fba32b38-adf2-4bd3-8150-ae083c152cb5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>koderahasia</value>
+         <variableId>edf7af5f-6a9f-4d19-9fd1-712ee0c55d96</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Open search filters_avatar</name>
+   <tag></tag>
+   <elementGuidId>1f859860-4b2c-4cd7-bf61-77817ab9f2e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.channel-link.yt-simple-endpoint.style-scope.ytd-channel-renderer > #avatar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='avatar']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>20e74e8f-ac27-453a-a07c-f4ff408c1d33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>avatar</value>
+      <webElementGuid>70e88d19-1f66-4057-9c22-971379b7ab8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-scope ytd-channel-renderer</value>
+      <webElementGuid>2485d92c-d6aa-4e15-9db6-f914f075da8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;avatar-section&quot;)/a[@class=&quot;channel-link yt-simple-endpoint style-scope ytd-channel-renderer&quot;]/div[@id=&quot;avatar&quot;]</value>
+      <webElementGuid>38f4dce6-ee7d-4743-b688-60735c7d8c8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='avatar']</value>
+      <webElementGuid>28f32ee0-ffe0-41e1-a69c-38de9b45859b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='avatar-section']/a/div</value>
+      <webElementGuid>5efd332a-1522-4590-9d67-2bb1b53ad773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/following::div[17]</value>
+      <webElementGuid>a0edf87a-0ac5-4d1a-9b9b-f388f45c2913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ammar TV'])[1]/preceding::div[1]</value>
+      <webElementGuid>0aa5395b-529a-4307-84db-088eb984567e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ytd-channel-renderer/div/div/a/div</value>
+      <webElementGuid>372b9d09-7213-497e-9b63-3ee72a73a2ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'avatar']</value>
+      <webElementGuid>937fa8d9-0387-440d-ad38-112ba4df4f20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

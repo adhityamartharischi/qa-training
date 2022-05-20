@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Login_Cura</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>025f20b9-e137-400a-8fc0-432ca4057584</dataFileGUID>
+   <dataSourceUrl>jdbc:mysql://localhost:3306/qa_testing</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password></password>
+   <query>select * from login_cura</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>root</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

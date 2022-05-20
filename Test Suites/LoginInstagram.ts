@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>LoginInstagram</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>5bd00e0d-d281-415d-9bba-09a9ac5c4e4a</testSuiteGuid>
+   <testCaseLink>
+      <guid>195d311b-734c-4ab7-8abe-3a555e10ecb2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestCasesPakaiExcel/LoginInstagram</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>2db1979d-0d89-4696-abef-846ecb7b3f70</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginInstagram</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>2db1979d-0d89-4696-abef-846ecb7b3f70</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>d471dead-f133-4515-ae4a-e74e72116224</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2db1979d-0d89-4696-abef-846ecb7b3f70</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>651895c8-547a-484f-bdb1-a11800540cb4</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

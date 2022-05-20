@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>LoginGitHub</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>ade87dbe-224b-4600-8b9c-39a2ae19b5b6</testSuiteGuid>
+   <testCaseLink>
+      <guid>cb29a999-7942-49c2-8017-57fa67bfe970</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestCasesPakaiExcel/LoginGitHub</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d393be81-f781-421f-aee7-feac8a5b84c5</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginGitHub</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d393be81-f781-421f-aee7-feac8a5b84c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>44eef008-cd40-4d81-afd9-4cb2d9a1e3bc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d393be81-f781-421f-aee7-feac8a5b84c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>a6413663-7fae-4813-b864-69b9c491998d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

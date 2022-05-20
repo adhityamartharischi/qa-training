@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ScriptModeSearchTokopedia</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65717703-e088-433b-b813-b1df894f5006</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>792f9ea2-95f6-4064-9669-035a31862288</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b13cc6b-91de-46c5-8ea2-f349db9642a0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b630d86d-4827-4db3-af5d-eb8907768590</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.tokopedia.com'</defaultValue>
+      <description></description>
+      <id>792f9ea2-95f6-4064-9669-035a31862288</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sepeda'</defaultValue>
+      <description></description>
+      <id>2b13cc6b-91de-46c5-8ea2-f349db9642a0</id>
+      <masked>false</masked>
+      <name>cari</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sepeda'</defaultValue>
+      <description></description>
+      <id>b630d86d-4827-4db3-af5d-eb8907768590</id>
+      <masked>false</masked>
+      <name>verify</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>CreateGoogleEmail</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>4428a799-1acf-4c57-a260-0103540171ef</testSuiteGuid>
+   <testCaseLink>
+      <guid>5dac4988-50ba-47b3-833c-9de206bbc11d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestCasesPakaiExcel/CreateGoogleEmail</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>022cb3ab-03a2-47a7-ab59-339295c0fd99</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/CreateGoogleEmail</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>022cb3ab-03a2-47a7-ab59-339295c0fd99</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>firstname</value>
+         <variableId>c786c572-1e58-4348-aded-8ec429f0b7de</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>022cb3ab-03a2-47a7-ab59-339295c0fd99</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>lastname</value>
+         <variableId>5892a38c-b7b8-4772-849a-52e8bf02d295</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>022cb3ab-03a2-47a7-ab59-339295c0fd99</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>33129f1d-6095-4ffc-a4ca-04ba49953f47</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>022cb3ab-03a2-47a7-ab59-339295c0fd99</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>f586f9b9-88db-4a6c-a6a5-ba55ff513ba1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>022cb3ab-03a2-47a7-ab59-339295c0fd99</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>confirmpassword</value>
+         <variableId>893840bb-d7cd-4f6a-9c77-32eca7c4f4cf</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

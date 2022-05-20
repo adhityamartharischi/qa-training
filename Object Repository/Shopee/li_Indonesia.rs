@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Indonesia</name>
+   <tag></tag>
+   <elementGuidId>6fece64b-0a37-4893-a625-152a9abe0f73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.content__country</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Shopee'])[1]/following::li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>063f8365-f1ee-4b45-92de-6b931d18eae8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content__country</value>
+      <webElementGuid>3db63adc-2810-4cbe-8942-a0cadc421612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Indonesia</value>
+      <webElementGuid>c79a1125-34fd-4b73-b85a-e42b73329b9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;page&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;content__countries&quot;]/li[@class=&quot;content__country&quot;]</value>
+      <webElementGuid>b4a7ed9b-9ed4-4987-b9c3-8315347d08dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Shopee'])[1]/following::li[1]</value>
+      <webElementGuid>d17e6ae4-60c3-4c7c-a4d1-42cbcc56c449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instagram'])[1]/following::li[1]</value>
+      <webElementGuid>6dd105bc-3092-4bc7-a413-f43a29799c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Taiwan'])[1]/preceding::li[1]</value>
+      <webElementGuid>6024ed8a-970b-4e26-88ce-fe705713e25e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>e5c17d93-aee7-43d1-909e-d93d8d3e3fc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Indonesia' or . = 'Indonesia')]</value>
+      <webElementGuid>030332dc-3521-4d79-bee4-35c30d0a936f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

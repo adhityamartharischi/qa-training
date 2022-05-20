@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginCura</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>103960b5-f89c-4b15-afd8-2701f16411af</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>84a14c70-f84e-4133-bfea-b3521e3d76fe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2ce5b7aa-ef94-4f12-b632-c59a3decc744</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>84a14c70-f84e-4133-bfea-b3521e3d76fe</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2ce5b7aa-ef94-4f12-b632-c59a3decc744</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

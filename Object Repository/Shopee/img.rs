@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>d7edcca2-0a17-4c81-97b1-28a442c1cae9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.customized-overlay-image > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div[3]/div/div/div[2]/div/div[2]/div/a/div/div/div/div[3]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>41199e45-0db3-41ac-84c5-dbdce58e49bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cf.shopee.co.id/file/4b46363fc17f4528d0725b2d5099c8b2</value>
+      <webElementGuid>41d5748b-60b0-49b3-898c-cbcf278ada0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[@class=&quot;dYFPlI&quot;]/div[@class=&quot;_9dX3ZL&quot;]/div[@class=&quot;container +eN62l&quot;]/div[@class=&quot;ZgwlcK&quot;]/div[@class=&quot;shopee-search-item-result&quot;]/div[@class=&quot;row shopee-search-item-result__items&quot;]/div[@class=&quot;col-xs-2-4 shopee-search-item-result__item&quot;]/a[1]/div[@class=&quot;tWpFe2&quot;]/div[@class=&quot;VTjd7p&quot;]/div[@class=&quot;yvbeD6 KUUypF&quot;]/div[@class=&quot;IpGwg7&quot;]/div[@class=&quot;customized-overlay-image&quot;]/img[1]</value>
+      <webElementGuid>0aa7842b-92e1-42f3-9f35-d636bf2752b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div[3]/div/div/div[2]/div/div[2]/div/a/div/div/div/div[3]/div/img</value>
+      <webElementGuid>24f70e22-f2ca-4bf6-bb4b-58bf6e189441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://cf.shopee.co.id/file/4b46363fc17f4528d0725b2d5099c8b2')]</value>
+      <webElementGuid>17a4a22a-7b6b-4c5b-8720-e8b24d5ff32a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/img</value>
+      <webElementGuid>0c9c1046-b258-49e9-ab3e-f807c18629ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cf.shopee.co.id/file/4b46363fc17f4528d0725b2d5099c8b2']</value>
+      <webElementGuid>94fd28e4-3166-46bc-b4e4-885173be1479</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

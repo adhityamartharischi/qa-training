@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>TestDataDatabase</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>85d765aa-f4e5-4f35-8499-62a9aa4c2e57</dataFileGUID>
+   <dataSourceUrl>jdbc:mysql://localhost:3306/qa_testing</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password></password>
+   <query>select * from appointment</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>root</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
